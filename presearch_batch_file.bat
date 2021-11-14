@@ -1,0 +1,1 @@
+C:\Users\hari1\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\python.exe D:\Projects\Python\presearch\recaptcha_v2_solver\recaptcha_solver.py pause
